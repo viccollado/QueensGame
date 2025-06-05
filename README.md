@@ -17,6 +17,5 @@ To run in your computer, you should run the script `mouse_info.py` and change in
 
 Watch the bot in action solving the Queens Game:
 
-<video width="1280" height="720" controls>
-  <source src="imgs/Queens_03062025.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/b079a532-2580-4143-9099-f690ed13a4a6
+
