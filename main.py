@@ -24,7 +24,7 @@ def main():
     pyautogui.click(x_start, y_start)
 
     # Wait for the game to load
-    time.sleep(0.5)
+    time.sleep(1)
 
     # Queens box parameter
     # CHANGE BY YOUR COORDINATES
